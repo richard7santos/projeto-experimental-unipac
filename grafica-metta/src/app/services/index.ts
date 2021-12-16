@@ -1,0 +1,5 @@
+export {useProdutoService} from './produto.service'
+export { useClienteService } from './cliente.service'
+export { useVendaService } from './vendas.service'
+export { useDespesaService } from './despesa.service'
+export { useFornecedorService } from './fornecedor.service'
