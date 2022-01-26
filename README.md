@@ -5,6 +5,17 @@
 
 Trabalho de Conclusão de Curso apresentado à disciplina de Projeto Experimental II, como requisito parcial para obtenção do título de Tecnólogo em Análise e Desenvolvimento de Sistemas, pela Faculdade Presidente Antônio Carlos de Uberlândia - UNIPAC
 
+## Layout web (Algumas telas)
+![Web 1](https://github.com/richard7santos/projeto-experimental-unipac/blob/main/dashboard.png)
+Tela de Estatísticas (DashBoard).
+
+![Web 2](https://github.com/richard7santos/projeto-experimental-unipac/blob/main/cadclientes.png)
+Tela de Cadastro de Clientes
+
+![Web 3](https://github.com/richard7santos/projeto-experimental-unipac/blob/main/telaVendas.png)
+Tela de relatório de Vendas
+
+
 # Tecnologias utilizadas
 ## Back end
 - Java
